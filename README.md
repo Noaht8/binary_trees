@@ -171,3 +171,4 @@ alex@/tmp/binary_trees$ ./1-left
 (012)          (128)                                            
 alex@/tmp/binary_trees$
 ```
+## [2-binary_tree_insert_right.c](2-binary_tree_insert_right.c)
