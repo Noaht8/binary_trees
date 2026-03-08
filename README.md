@@ -214,3 +214,4 @@ alex@/tmp/binary_trees$ ./2-right
      (054)          (402)
 alex@/tmp/binary_trees$
 ```
+## [3-binary_tree_delete.c](3-binary_tree_delete.c)
