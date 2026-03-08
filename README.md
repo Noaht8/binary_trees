@@ -215,3 +215,9 @@ alex@/tmp/binary_trees$ ./2-right
 alex@/tmp/binary_trees$
 ```
 ## [3-binary_tree_delete.c](3-binary_tree_delete.c)
+Write a function that deletes an entire binary tree
+
+- Prototype: `void binary_tree_delete(binary_tree_t *tree);`
+- Where `tree` is a pointer to the root node of the tree to delete
+- If `tree` is `NULL`, do nothing
+
