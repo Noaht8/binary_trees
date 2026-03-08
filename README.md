@@ -128,3 +128,4 @@ alex@/tmp/binary_trees$ ./0-node
 (006)     (016)     (256)     (512)
 alex@/tmp/binary_trees$
 ```
+## [1-binary_tree_insert_left.c](1-binary_tree_insert_left.c)
