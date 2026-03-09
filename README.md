@@ -420,3 +420,9 @@ alex@/tmp/binary_trees$ ./6-pre
 alex@/tmp/binary_trees$
 ```
 ## [7-binary_tree_inorder.c](7-binary_tree_inorder.c)
+Write a function that goes through a binary tree using in-order traversal
+
+- Prototype: `void binary_tree_inorder(const binary_tree_t *tree, void (*func)(int));`
+- Where `tree` is a pointer to the root node of the tree to traverse
+- And `func` is a pointer to a function to call for each node. The value in the node must be passed as a parameter to this function.
+- If `tree` or `func` is `NULL`, do nothing
