@@ -361,3 +361,4 @@ Is 128 a root: 0
 Is 402 a root: 0
 alex@/tmp/binary_trees$
 ```
+## [6-binary_tree_preorder.c](6-binary_tree_preorder.c)
