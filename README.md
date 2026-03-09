@@ -419,3 +419,4 @@ alex@/tmp/binary_trees$ ./6-pre
 512
 alex@/tmp/binary_trees$
 ```
+## [7-binary_tree_inorder.c](7-binary_tree_inorder.c)
