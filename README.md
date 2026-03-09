@@ -265,3 +265,4 @@ alex@/tmp/binary_trees$ valgrind ./3-del
 ==13264== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
 alex@/tmp/binary_trees$
 ```
+## [4-binary_tree_is_leaf.c](4-binary_tree_is_leaf.c)
