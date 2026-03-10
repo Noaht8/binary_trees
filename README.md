@@ -582,3 +582,4 @@ Height from 128: 1
 Height from 54: 0
 alex@/tmp/binary_trees$
 ```
+## [10-binary_tree_depth.c](10-binary_tree_depth.c)
