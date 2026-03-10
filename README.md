@@ -630,3 +630,8 @@ Depth of 54: 2
 alex@/tmp/binary_trees$
 ```
 ## [11-binary_tree_size.c](11-binary_tree_size.c)
+Write a function that measures the size of a binary tree
+
+- Prototype: `size_t binary_tree_size(const binary_tree_t *tree);`
+- Where `tree` is a pointer to the root node of the tree to measure the size
+- If `tree` is `NULL`, the function must return `0`
