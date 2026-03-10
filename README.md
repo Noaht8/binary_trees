@@ -535,3 +535,4 @@ alex@/tmp/binary_trees$ ./8-post
 98
 alex@/tmp/binary_trees$
 ```
+## [9-binary_tree_height.c](9-binary_tree_height.c)
