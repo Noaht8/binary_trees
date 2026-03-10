@@ -583,3 +583,8 @@ Height from 54: 0
 alex@/tmp/binary_trees$
 ```
 ## [10-binary_tree_depth.c](10-binary_tree_depth.c)
+Write a function that measures the depth of a node in a binary tree
+
+- Prototype: `size_t binary_tree_depth(const binary_tree_t *tree);`
+- Where `tree` is a pointer to the node to measure the depth
+- If `tree` is `NULL`, your function must return `0`
