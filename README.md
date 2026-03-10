@@ -477,3 +477,4 @@ alex@/tmp/binary_trees$ ./7-in
 512
 alex@/tmp/binary_trees$
 ```
+## [8-binary_tree_postorder.c](8-binary_tree_postorder.c)
