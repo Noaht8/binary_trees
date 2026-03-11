@@ -676,3 +676,4 @@ Size of 128: 2
 Size of 54: 1
 alex@/tmp/binary_trees$
 ```
+## [12-binary_tree_leaves.c](12-binary_tree_leaves.c)
