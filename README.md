@@ -825,3 +825,4 @@ Balance of 128: -1
 Balance of 54: +0
 alex@/tmp/binary_trees$
 ```
+## [15-binary_tree_is_full.c](15-binary_tree_is_full.c)
