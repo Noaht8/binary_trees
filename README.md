@@ -873,3 +873,4 @@ Is 12 full: 1
 Is 128 full: 0
 alex@/tmp/binary_trees$
 ```
+## [16-binary_tree_is_perfect.c](16-binary_tree_is_perfect.c)
