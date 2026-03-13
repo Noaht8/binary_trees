@@ -1378,3 +1378,4 @@ Rotate-right 64
           (056)     (098)
 alex@/tmp/binary_trees$
 ```
+## [110-binary_tree_is_bst.c](110-binary_tree_is_bst.c)
