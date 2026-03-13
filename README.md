@@ -1322,3 +1322,4 @@ Rotate-left 128
 (098)     (420)
 alex@/tmp/binary_trees$
 ```
+## [104-binary_tree_rotate_right.c](104-binary_tree_rotate_right.c)
