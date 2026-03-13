@@ -1191,3 +1191,8 @@ alex@/tmp/binary_trees$ valgrind ./101-lvl
 alex@/tmp/binary_trees$
 ```
 ## [102-binary_tree_is_complete.c](102-binary_tree_is_complete.c)
+Write a function that checks if a binary tree is complete
+
+- Prototype: `int binary_tree_is_complete(const binary_tree_t *tree);`
+- Where `tree` is a pointer to the root node of the tree to check
+- If `tree` is `NULL`, your function must return `0`
