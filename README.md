@@ -1190,3 +1190,4 @@ alex@/tmp/binary_trees$ valgrind ./101-lvl
 ==23445== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
 alex@/tmp/binary_trees$
 ```
+## [102-binary_tree_is_complete.c](102-binary_tree_is_complete.c)
