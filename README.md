@@ -1603,3 +1603,4 @@ Found: 32
 Node should be nil -> (nil)
 alex@/tmp/binary_trees$
 ```
+## [114-bst_remove.c](114-bst_remove.c)
