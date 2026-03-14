@@ -1440,3 +1440,4 @@ Is 12 bst: 1
 Is 98 bst: 0
 alex@/tmp/binary_trees$
 ```
+## [111-bst_insert.c](111-bst_insert.c), [0-binary_tree_node.c](0-binary_tree_node.c)
