@@ -1550,3 +1550,4 @@ alex@/tmp/binary_trees$ ./112-bst_array
 (001)     (020)     (022)     (034)                                   (095)
 alex@/tmp/binary_trees$
 ```
+## [113-bst_search.c](113-bst_search.c)
