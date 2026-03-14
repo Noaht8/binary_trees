@@ -1506,3 +1506,4 @@ Node should be nil -> (nil)
                          (256)
 alex@/tmp/binary_trees$
 ```
+## [112-array_to_bst.c](112-array_to_bst.c), [111-bst_insert.c](111-bst_insert.c), [0-binary_tree_node.c](0-binary_tree_node.c)
