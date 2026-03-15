@@ -1939,3 +1939,14 @@ alex@/tmp/binary_trees$
 ```
 ## [123-avl_remove.c](123-avl_remove.c), [14-binary_tree_balance.c](14-binary_tree_balance.c), [103-binary_tree_rotate_left.c](103-binary_tree_rotate_left.c), [104-binary_tree_rotate_right.c](104-binary_tree_rotate_right.c)
 
+Write a function that removes a node from an AVL tree
+
+- Prototype: `avl_t *avl_remove(avl_t *root, int value);`
+- Where `root` is a pointer to the root node of the tree for removing a node
+- And `value` is the value to remove in the tree
+- Once located, the node containing a value equals to `value` must be removed and freed
+- If the node to be deleted has two children, it must be replaced with its first `in-order successor` (not predecessor)
+- After deletion of the desired node, the tree must be rebalanced if necessary
+- Your function must return a pointer to the new root node of the tree after removing the desired value, and after rebalancing
+
+Your files `14-binary_tree_balance.c`, `103-binary_tree_rotate_left.c` and `104-binary_tree_rotate_right.c` will be compiled during the correction
