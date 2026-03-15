@@ -1794,3 +1794,6 @@ Properties of an AVL Tree:
 - An AVL Tree is a BST
 - The difference between heights of left and right subtrees cannot be more than one
 - The left and right subtrees must also be AVL trees
+
+## [121-avl_insert.c](121-avl_insert.c), [14-binary_tree_balance.c](14-binary_tree_balance.c), [103-binary_tree_rotate_left.c](103-binary_tree_rotate_left.c), [104-binary_tree_rotate_right.c](104-binary_tree_rotate_right.c), [0-binary_tree_node.c](0-binary_tree_node.c)
+
