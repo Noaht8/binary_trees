@@ -1797,3 +1797,13 @@ Properties of an AVL Tree:
 
 ## [121-avl_insert.c](121-avl_insert.c), [14-binary_tree_balance.c](14-binary_tree_balance.c), [103-binary_tree_rotate_left.c](103-binary_tree_rotate_left.c), [104-binary_tree_rotate_right.c](104-binary_tree_rotate_right.c), [0-binary_tree_node.c](0-binary_tree_node.c)
 
+Write a function that inserts a value in an AVL Tree
+
+- Prototype: `avl_t *avl_insert(avl_t **tree, int value);`
+- Where `tree` is a double pointer to the root node of the AVL tree for inserting the value
+- And `value` is the value to store in the node to be inserted
+- Your function must return a pointer to the created node, or `NULL` on failure
+- If the address stored in `tree` is `NULL`, the created node must become the root node.
+- The resulting tree after insertion, must be a balanced AVL Tree
+
+Your files `14-binary_tree_balance.c`, `103-binary_tree_rotate_left.c`, `104-binary_tree_rotate_right.c` and `0-binary_tree_node.c` will be compiled during the correction
