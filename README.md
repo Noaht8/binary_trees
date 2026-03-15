@@ -1894,3 +1894,12 @@ alex@/tmp/binary_trees$
 
 ## [122-array_to_avl.c](122-array_to_avl.c), [121-avl_insert.c](121-avl_insert.c), [0-binary_tree_node.c](0-binary_tree_node.c), [103-binary_tree_rotate_left.c](103-binary_tree_rotate_left.c), [104-binary_tree_rotate_right.c](104-binary_tree_rotate_right.c), [14-binary_tree_balance.c](14-binary_tree_balance.c)
 
+Write a function that builds an AVL tree from an array
+
+- Prototype: `avl_t *array_to_avl(int *array, size_t size);`
+- Where `array` is a pointer to the first element of the array to be converted
+- And `size` is the number of element in the array
+- Your function must return a pointer to the root node of the created AVL tree, or `NULL` on failure
+- If a value of the array is already present in the tree, this value must be ignored
+
+Your files `121-avl_insert.c`, `0-binary_tree_node.c`, `14-binary_tree_balance.c`, `103-binary_tree_rotate_left.c` and `104-binary_tree_rotate_right.c` will be compiled during the correction
