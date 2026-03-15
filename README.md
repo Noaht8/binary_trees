@@ -1937,3 +1937,5 @@ alex@/tmp/binary_trees$ ./122-avl_array
                                                                       (095)
 alex@/tmp/binary_trees$
 ```
+## [123-avl_remove.c](123-avl_remove.c), [14-binary_tree_balance.c](14-binary_tree_balance.c), [103-binary_tree_rotate_left.c](103-binary_tree_rotate_left.c), [104-binary_tree_rotate_right.c](104-binary_tree_rotate_right.c)
+
