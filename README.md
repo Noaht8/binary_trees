@@ -1698,3 +1698,4 @@ What are the average time complexities of those operations on a Binary Search Tr
 - Inserting the value `n`
 - Removing the node with the value `n`
 - Searching for a node in a BST of size `n`
+## [120-binary_tree_is_avl.c](120-binary_tree_is_avl.c)
