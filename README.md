@@ -2110,3 +2110,9 @@ alex@/tmp/binary_trees$ ./124-avl_sorted
                                                                            (098)
 alex@/tmp/binary_trees$
 ```
+## [125-O](125-O)
+What are the average time complexities of those operations on an AVL Tree (one answer per line):
+
+- Inserting the value `n`
+- Removing the node with the value `n`
+- Searching for a node in an AVL tree of size n
