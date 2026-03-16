@@ -2338,3 +2338,4 @@ alex@/tmp/binary_trees$ ./132-heap_array
 (032)
 alex@/tmp/binary_trees$
 ```
+## [133-heap_extract.c](133-heap_extract.c)
