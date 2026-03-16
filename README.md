@@ -2118,3 +2118,15 @@ What are the average time complexities of those operations on an AVL Tree (one a
 - Searching for a node in an AVL tree of size n
 
 ## [130-binary_tree_is_heap.c](130-binary_tree_is_heap.c)
+Write a function that checks if a binary tree is a valid [Max Binary Heap](https://en.wikipedia.org/wiki/Binary_heap)
+
+- Prototype: `int binary_tree_is_heap(const binary_tree_t *tree);`
+- Where `tree` is a pointer to the root node of the tree to check
+- Your function must return `1` if `tree` is a valid Max Binary Heap, and `0` otherwise
+- If `tree` is `NULL`, return `0`
+
+Properties of a Max Binary Heap:
+
+- It’s a complete tree
+- In a Max Binary Heap, the value at root must be maximum among all values present in Binary Heap
+- The last property must be recursively true for all nodes in Binary Tree
