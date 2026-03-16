@@ -2296,3 +2296,11 @@ Inserted: 50
 alex@/tmp/binary_trees$
 ```
 ## [132-array_to_heap.c](132-array_to_heap.c), [131-heap_insert.c](131-heap_insert.c), [0-binary_tree_node.c](0-binary_tree_node.c)
+Write a function that builds a Max Binary Heap tree from an array
+
+- Prototype: `heap_t *array_to_heap(int *array, size_t size);`
+- Where array is a pointer to the first element of the array to be converted
+- And size is the number of element in the array
+- Your function must return a pointer to the root node of the created Binary Heap, or NULL on failure
+
+Your files `131-heap_insert.c` and `0-binary_tree_node.c` will be compiled during the correction
