@@ -2513,3 +2513,9 @@ alex@/tmp/binary_trees$ valgrind ./134-heap_sort
 ==46529== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
 alex@/tmp/binary_trees$
 ```
+## [135-O](135-O)
+What are the average time complexities of those operations on a Binary Heap (one answer per line):
+
+- Inserting the value n
+- Extracting the root node
+- Searching for a node in a binary heap of size n
